@@ -14,3 +14,5 @@ Arena Breakout: Infinite = Arena Breakout Infinite/ABInfinite/Binaries/Win64/UAG
 Torchlight: Infinite = Torchlight Infinite/UE_game/Binaries/Win64/torchlight_infinite
 Goddess of Victory: Nikke = nikke
 Once Human = Once Human/ONCE_HUMAN
+Genshin Impact = GenshinImpact
+NTE: Neverness To Everness = HTGame
