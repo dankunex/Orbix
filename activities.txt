@@ -17,3 +17,5 @@ Once Human = Once Human/ONCE_HUMAN
 Genshin Impact = GenshinImpact
 NTE: Neverness To Everness = HTGame
 Delta Force = Delta Force/Game/DeltaForce/Binaries/Win64/DeltaForceClient-Win64-Shipping
+VALORANT = Riot Games/VALORANT/live/ShooterGame/Binaries/Win64/VALORANT-Win64-Shipping
+Counter Strike 2 = Counter-Strike Global Offensive/game/bin/win64/cs2
