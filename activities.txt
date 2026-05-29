@@ -21,3 +21,4 @@ VALORANT = Riot Games/VALORANT/live/ShooterGame/Binaries/Win64/VALORANT-Win64-Sh
 Counter Strike 2 = Counter-Strike Global Offensive/game/bin/win64/cs2
 Rune Dice = Rune Dice/Binaries/Win64/Rune Dice
 World of Tanks: HEAT = wgcs_api
+Path of Exile 2 = Path of Exile 2/PathOfExile
