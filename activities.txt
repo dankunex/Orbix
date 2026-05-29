@@ -20,3 +20,4 @@ Delta Force = Delta Force/Game/DeltaForce/Binaries/Win64/DeltaForceClient-Win64-
 VALORANT = Riot Games/VALORANT/live/ShooterGame/Binaries/Win64/VALORANT-Win64-Shipping
 Counter Strike 2 = Counter-Strike Global Offensive/game/bin/win64/cs2
 Rune Dice = Rune Dice/Binaries/Win64/Rune Dice
+World of Tanks: HEAT = wgcs_api
