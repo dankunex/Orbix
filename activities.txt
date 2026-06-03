@@ -22,3 +22,4 @@ Counter Strike 2 = Counter-Strike Global Offensive/game/bin/win64/cs2
 Rune Dice = Rune Dice/Binaries/Win64/Rune Dice
 World of Tanks: HEAT = wgcs_api
 Path of Exile 2 = Path of Exile 2/PathOfExile
+Duet Night Abyss = Duet Night Abyss/DNA Game/DNA-Win64-Shipping
