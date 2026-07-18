@@ -29,3 +29,4 @@ EMPULSE = EMPULSE Demo/Orion/Binaries/Win64/OrionClient-Win64-Shipping
 Warframe = Warframe/Warframe.x64
 STALZONE = bin/stalcraftw
 EA SPORTS FC 26 = EA Sports FC 26/FC26
+RuneScape = win64/runescape
