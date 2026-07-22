@@ -31,4 +31,4 @@ STALZONE = bin/stalcraftw
 EA SPORTS FC 26 = EA Sports FC 26/FC26
 RuneScape = win64/runescape
 Battlefield 6 = Battlefield 6/bf6
-Shift At Midnight = Shift at Midnight/ShiftAtMidnight
+Shift At Midnight = Shift at Midnight Demo/ShiftAtMidnight
