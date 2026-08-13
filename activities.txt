@@ -34,3 +34,4 @@ Battlefield 6 = Battlefield 6/bf6
 Umamusume: Pretty Derby = UmamusumePrettyDerby/UmamusumePrettyDerby
 EVE Online = Eve Online/exefile
 League of Legends/Classic = Game/League of Legends
+Ragnarok: The New World = roworld/game
