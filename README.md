@@ -2,6 +2,6 @@
 
 # Orbix is no longer in development
 ### Read more here:
-- **English:** [dankunex.com/labs/orbix/en](https://dankunex.com/labs/orbix/en)
-- **Español:** [dankunex.com/labs/orbix](https://dankunex.com/labs/orbix/)
+- **English:** [dankunex.com/labs/orbix/en](https://dankunex.com/labs/orbix/)
+- **Español:** [dankunex.com/labs/orbix](https://dankunex.com/labs/orbix/es)
 - **Valencià:** [dankunex.com/labs/orbix](https://dankunex.com/labs/orbix/va)
