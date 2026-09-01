@@ -1,4 +1,7 @@
-<img width="1200" height="630" alt="orbix-pres" src="https://github.com/user-attachments/assets/bfe5fdd8-532e-489a-967b-664d0ee75197" />
+<img width="1200" height="630" alt="orbix-pres" src="https://dankunex.com/pbase/img/assets/pr-orbix-embed.png"/>
 
-### Source code coming soon.
-(I'm currently writing the documentation)
+# Orbix is no longer in development
+### Read more here:
+- **English:** [dankunex.com/labs/orbix/en](https://dankunex.com/labs/orbix/en)
+- **Español:** [dankunex.com/labs/orbix](https://dankunex.com/labs/orbix/)
+- **Valencià:** [dankunex.com/labs/orbix](https://dankunex.com/labs/orbix/va)
